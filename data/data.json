@@ -1,0 +1,53 @@
+{
+    "type": "firma",
+    "properties": {
+        "f1": "asdf",
+        "f2": "d"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            "4",
+            "34,"
+        ]
+    }
+}{
+    "type": "ngo",
+    "properties": {
+        "f1": "dsfsd",
+        "f2": "fds"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            null,
+            "f"
+        ]
+    }
+}{
+    "type": "ngo",
+    "properties": {
+        "f1": "sdfsdf",
+        "f2": "asdf"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            "987",
+            "123,"
+        ]
+    }
+}{
+    "type": "firma",
+    "properties": {
+        "f1": "asdfsdf",
+        "f2": "sdf"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            null,
+            "sdfsdf"
+        ]
+    }
+}

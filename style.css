@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#map {
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  color: #1b2b5f;
+}
+
+.doc-container {
+  padding-left: 1.2rem;
+  font-size: 1rem;
+}
+
+.leaflet-control-layers {
+  transform: scale(1.2) translateX(-1.5rem) translateY(0.7rem);
+}
